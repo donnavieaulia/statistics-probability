@@ -1,10 +1,24 @@
-## Getting Started
+## Data Structure Object-Oriented Programming
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Project ini merupakan implementasi dari konsep Object-Oriented Programming (OOP) dalam bahasa Java menggunakan studi kasus Restaurant Menu System.
 
-## Folder Structure
+Pada project ini terdapat main class (parent class) yaitu Main yang merepresentasikan menu restoran secara umum. Kemudian dibuat kelas turunannya (subclass) berupa:
 
-The workspace contains two folders by default, where:
+1.Food
+
+2.Drink
+
+3.Dessert
+
+Setiap subclass merepresentasikan jenis menu yang berbeda di dalam restoran.
+
+## 4 Pilar Object-Oriented Programming
+
+
+1. Encapsulation
+   
+Encapsulation merupakan konsep untuk membungkus data dan method dalam sebuah class sehingga data tidak dapat diakses langsung dari luar class.
+Pada program ini atribut name disimpan dalam class Main dan digunakan oleh subclass.
 
 - `src`: the folder to maintain sources
 - `lib`: the folder to maintain dependencies
