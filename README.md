@@ -39,6 +39,7 @@ public class Main {
 
 ```
 2.Inheritance
+
 Inheritance adalah konsep pewarisan sifat dari class induk ke class turunan.
 
 Pada program ini `Main` menjadi `Parent Class`, sedangkan `Food`, `Drink`, dan `Dessert` merupakan `Child Class` yang mewarisi atribut dan method dari class `Main`.
